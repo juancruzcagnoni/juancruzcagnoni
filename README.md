@@ -1,3 +1,4 @@
+<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQH5ZVfLOO5GIw/profile-displaybackgroundimage-shrink_200_800/0/1660161550341?e=1665619200&v=beta&t=ZrhsPa8XFkvBumnPMrzaFMJ3To-rEvcr7vIAX655rG0">
 <h1 align="center">Hi 👋, I'm Juan Cruz Cagnoni</h1>
 <h3 align="center">A passionate Frontend Developer from Buenos Aires, Argentina.</h3>
 
