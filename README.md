@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Cruz Cagnoni</h1>
 <h3 align="center">A passionate Frontend Developer from Buenos Aires, Argentina.</h3>
 
-- 🔭 I’m currently working on **my freelance projects.**
+<h4 align="center">Currently studying in CoderHouse and Escuela Da Vinci. <br> I´m 19 years old from Buenos Aires, Argentina. Creativity it is part of me since I was a child. When I had to choose something to do for my life I didn´t doubt that it was going to be linked to creativity and design. In 2021 when I started studying Multimedia Design I fell in love with Frontend Development and I realized that I wanted to dedicate myself to that.</h4> <br><br>
+
+- 🔭 I’m currently looking for **get my first job in the world of development to grow as a professional.**
 
 - 🌱 I’m currently learning **JavaScript and ReactJS**
 
