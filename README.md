@@ -1,11 +1,12 @@
+## 👋🧑‍💻 Hey! I´m Juan Cruz Cagnoni
 <img src="banner-git.jpg">
-
-## Juan Cruz Cagnoni
-I am Juan Cruz from Buenos Aires, frontend developer. I like programming, learning new habilities and solving problems. I work from my studio to the world using development and design for positive impact. I really enjoy creating human, pleasant and user-centered experiences. 😁
+I am a frontend developer from Buenos Aires, passionate about development. I love learning new habilities and solving problems. I work from my studio to the world using development and design for positive impact, really enjoy creating human, pleasant and user-centered experiences. 
 
 ### Skills
-* 🟡 JavaScript 
+* 🟡 JavaScript
 * 💻 HTML, CSS
-* 🎨 UX/UI Design 
+* 🎨 UX/UI Design
 
-
+### 🌎 Find me around the web 
+* <a href="">LinkedIn</a>
+* <a href="">Instagram</a>
