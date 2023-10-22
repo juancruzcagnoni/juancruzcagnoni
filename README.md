@@ -1,6 +1,8 @@
 Hi! I am Juan Cruz from Buenos Aires. Frontend Developer.
 
-I like programming, learning new habilities and create high impact software!
+Specializing in JavaScript development, focusing on the React JS library as the main technology. 
+
+JavaScript, React JS, Tailwind CSS, Vue and Wordpress are the technologies I am most comfortable with.
 
 You will find most of my projects I make in my free time here!
 
