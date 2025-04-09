@@ -1,5 +1,5 @@
-**software engineer — developing machine learning and ai systems :)**
+**Passionate about problem-solving**
 
-a big fan of building things and learning new stuff, -almost- all time related to machine learning and ai
+My name is Juan Cruz Cagnoni. Software Developer, now I'm working on SAP BTP and Fiori development at DL Consultores. Technical degree in Web Design and Programming at Escuela Da Vinci.
 
-if you wanna chat or just read some of my thoughts, feel free to reach me on [twitter](https://x.com/software_valen) or via me@valenradovich.tech
+If you wanna chat, reach me on [juancruzcagnoni.com](https://juancruzcagnoni.com/) or via juancagnoni@gmail.com
