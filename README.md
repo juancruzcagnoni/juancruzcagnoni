@@ -1,5 +1,5 @@
 **Passionate about problem-solving.**
 
-My name is Juan Cruz Cagnoni. Software developer, currently working on SAP BTP and Fiori development at DL Consultores. Technical degree in Web Design and Programming at Escuela Da Vinci.
+Currently working on SAP BTP and Fiori development at DL Consultores. Passionate about mobile development and have delivered several projects using React Native. Technical degree in Web Design and Programming at Escuela Da Vinci.
 
 If you wanna chat, reach me via juancagnoni@gmail.com
